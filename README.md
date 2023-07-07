@@ -1,6 +1,8 @@
 # Unflag enum attribute for Odin
 
-This attribute limits choice to one single bit value from enum with `Flags` attribute
+![](Images/preview.png)
+
+This attribute limits choice to only one single bit value from enum with `Flags` attribute
 
 ## Instalation
 
@@ -8,4 +10,4 @@ Put `UnflagEnum` folder into Unity project
 
 ## Usage
 
-Just add to enum field or property
+Just add `UnflagEnum` attribute to enum field or property
